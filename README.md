@@ -25,7 +25,7 @@
 ![screenshot](https://github.com/iamdarshangowda/Learnest-UI/blob/master/images/Demo.png)
 
 -Mobile View 
-![screenshot](https://github.com/iamdarshangowda/Learnest-UI/blob/master/images/Mobile%20view.jpeg)
+<img src="https://github.com/iamdarshangowda/Learnest-UI/blob/master/images/Mobile%20view.jpeg" alt="Mobile View />
 
 This page was split into different sections to make use of CSS Flex Box and align items based on the requirement.
 
