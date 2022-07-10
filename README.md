@@ -15,10 +15,8 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#built-with)
-- [Features](#features)
+- [Built With](#built-with)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
@@ -48,5 +46,5 @@ Got to learn more about:
 
 ## Contact
 
-- Website [your-website.com](https://stupendous-centaur-a13b0b.netlify.app/)
-- GitHub [@your-username](https://{github.com/iamdarshangowda})
+- [Portfolio](https://stupendous-centaur-a13b0b.netlify.app/)
+- [GitHub](https://{github.com/iamdarshangowda})
