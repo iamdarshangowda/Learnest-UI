@@ -47,6 +47,24 @@ header {
   width: 300px;
 }
 
+@media only screen and (max-device-width: 480px) {
+  header {
+    height: 700px;
+  }
+
+  .tag {
+    height: 550px;
+    width: 80%;
+  }
+  .tag > h1 {
+    font-size: 34px;
+  }
+  .signup-btn {
+    height: 50px;
+    width: 200px;
+  }
+}
+
 /* SELF PACE INFO */
 
 .self-pace {
@@ -86,6 +104,27 @@ header {
   border-radius: 10px;
 }
 
+@media only screen and (max-device-width: 480px) {
+  .self-text {
+    margin: 10px;
+    width: 90%;
+    height: 500px;
+  }
+
+  .self-head > h1 {
+    font-size: 40px;
+  }
+  .self-info {
+    width: 280px;
+  }
+  .self-boxes {
+    width: 100%;
+  }
+  .self-box {
+    width: 450px;
+    height: 400px;
+  }
+}
 /* DARK INFO */
 
 .dark-container {
@@ -176,6 +215,16 @@ ul > li {
   font-weight: bold;
 }
 
+@media only screen and (max-device-width: 480px) {
+  .contact {
+    height: 900px;
+    padding-top: 25px;
+  }
+  .contact_lists {
+    width: 300px;
+  }
+}
+
 /* FOOTER */
 
 footer {
@@ -198,4 +247,10 @@ footer {
 
 .footer-text {
   color: #8a817c;
+}
+
+@media only screen and (max-device-width: 480px) {
+  .footer-right {
+    text-align: left;
+  }
 }
