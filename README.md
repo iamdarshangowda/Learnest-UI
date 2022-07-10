@@ -28,7 +28,7 @@
 
 -Mobile View
 
-<img src="https://i.imgur.com/ZWnhY9T.png" width="480" >
+<img src="https://github.com/iamdarshangowda/Learnest-UI/blob/master/images/mobileview.jpeg" width="480" >
 
 This page was split into different sections to make use of CSS Flex Box and align items based on the requirement.
 
