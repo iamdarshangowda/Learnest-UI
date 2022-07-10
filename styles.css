@@ -123,8 +123,8 @@ header {
 }
 
 .tech-box {
-  width: 400px;
-  height: 250px;
+  width: 350px;
+  height: 200px;
   margin: 20px;
   border-radius: 6px;
   box-shadow: 0 0 5px #bcb8b1;
@@ -132,7 +132,7 @@ header {
 }
 
 .tech-info {
-  width: 200px;
+  width: 180px;
   padding: 20px;
 }
 
@@ -142,8 +142,8 @@ header {
 }
 
 .tech img {
-  width: 180px;
-  height: 250px;
+  width: 150px;
+  height: 200px;
   border-radius: 6px;
   object-fit: cover;
 }
@@ -152,6 +152,7 @@ header {
 
 .contact {
   height: 500px;
+  padding-top: 125px;
 }
 
 .contact-logo {
@@ -178,7 +179,7 @@ ul > li {
 /* FOOTER */
 
 footer {
-  padding: 40px 50px;
+  padding: 25px 50px;
   background-color: #f4f3ee;
 }
 
